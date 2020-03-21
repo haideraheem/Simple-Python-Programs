@@ -3,6 +3,7 @@
 Created on Sat Oct  6 17:31:28 2018
 
 @author: Haider Raheem
+This program takes three integer inputs and then sorts them from highest to lowest and gives a string as output
 """
 
 x= int(input("Enter the first integer: "))
